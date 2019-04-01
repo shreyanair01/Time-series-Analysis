@@ -1,6 +1,6 @@
 # Time-series-Analysis
 
-Sales forecasting based on Rossman store sales available on https://www.kaggle.com/c/rossmann-store-sales
+Sales forecasting based on Retail store sales 
 
 The dataset contains sales data for daily sales from 2013 to 2015 for 1115 outlets of Rossman outlets across europe.
 Task : To predict future 6 weeks of sales 
